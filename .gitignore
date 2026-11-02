@@ -1,0 +1,17 @@
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+
+node_modules/
+**/node_modules/
+
+dist/
+build/
+
+*.log
+npm-debug.log*
+
+backend/uploads/*
